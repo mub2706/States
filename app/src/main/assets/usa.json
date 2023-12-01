@@ -1,0 +1,403 @@
+{
+  "states": [
+    {
+      "name": "Alaska",
+      "code": "ak",
+      "capital": "Juneau",
+      "area": "1723337",
+      "union": "January 3, 1959",
+      "wiki": "https://en.wikipedia.org/wiki/Alaska"
+    },
+    {
+      "name": "Alabama",
+      "code": "al",
+      "capital": "Montgomery",
+      "area": "135767",
+      "union": "December 4, 1819",
+      "wiki": "https://en.wikipedia.org/wiki/Alabama"
+    },
+    {
+      "name": "Arkansas",
+      "code": "ar",
+      "capital": "Little Rock",
+      "area": "137732",
+      "union": "June 15, 1836",
+      "wiki": "https://en.wikipedia.org/wiki/Arkansas"
+    },
+    {
+      "name": "Arizona",
+      "code": "az",
+      "capital": "Phoenix",
+      "area": "295234",
+      "union": "February 14, 1912",
+      "wiki": "https://en.wikipedia.org/wiki/Arizona"
+    },
+    {
+      "name": "California",
+      "code": "ca",
+      "capital": "Sacramento",
+      "area": "423972",
+      "union": "September 9, 1850",
+      "wiki": "https://en.wikipedia.org/wiki/California"
+    },
+    {
+      "name": "Colorado",
+      "code": "co",
+      "capital": "Denver",
+      "area": "269601",
+      "union": "August 1, 1876",
+      "wiki": "https://en.wikipedia.org/wiki/Colorado"
+    },
+    {
+      "name": "Connecticut",
+      "code": "ct",
+      "capital": "Hartford",
+      "area": "14357",
+      "union": "January 9, 1788",
+      "wiki": "https://en.wikipedia.org/wiki/Connecticut"
+    },
+    {
+      "name": "Delaware",
+      "code": "de",
+      "capital": "Dover",
+      "area": "6446",
+      "union": "December 7, 1787",
+      "wiki": "https://en.wikipedia.org/wiki/Delaware"
+    },
+    {
+      "name": "Florida",
+      "code": "fl",
+      "capital": "Tallahassee",
+      "area": "170312",
+      "union": "March 3, 1845",
+      "wiki": "https://en.wikipedia.org/wiki/Florida"
+    },
+    {
+      "name": "Georgia",
+      "code": "ga",
+      "capital": "Atlanta",
+      "area": "153910",
+      "union": "January 2, 1788",
+      "wiki": "https://en.wikipedia.org/wiki/Georgia_(U.S._state)"
+    },
+    {
+      "name": "Hawaii",
+      "code": "hi",
+      "capital": "Honolulu",
+      "area": "28313",
+      "union": "August 21, 1959",
+      "wiki": "https://en.wikipedia.org/wiki/Hawa�"
+    },
+    {
+      "name": "Iowa",
+      "code": "ia",
+      "capital": "Des Moines",
+      "area": "145746",
+      "union": "December 28, 1846",
+      "wiki": "https://en.wikipedia.org/wiki/Iowa"
+    },
+    {
+      "name": "Idaho",
+      "code": "id",
+      "capital": "Boise",
+      "area": "216443",
+      "union": "July 3, 1890",
+      "wiki": "https://en.wikipedia.org/wiki/Idaho"
+    },
+    {
+      "name": "Illinois",
+      "code": "il",
+      "capital": "Springfield",
+      "area": "149995",
+      "union": "December 3, 1818",
+      "wiki": "https://en.wikipedia.org/wiki/Illinois"
+    },
+    {
+      "name": "Indiana",
+      "code": "in",
+      "capital": "Indianapolis",
+      "area": "94326",
+      "union": "December 11, 1816",
+      "wiki": "https://en.wikipedia.org/wiki/Indiana"
+    },
+    {
+      "name": "Kansas",
+      "code": "ks",
+      "capital": "Topeka",
+      "area": "213100",
+      "union": "January 29, 1861",
+      "wiki": "https://en.wikipedia.org/wiki/Kansas"
+    },
+    {
+      "name": "Kentucky",
+      "code": "ky",
+      "capital": "Frankfort",
+      "area": "104656",
+      "union": "June 1, 1792",
+      "wiki": "https://en.wikipedia.org/wiki/Kentucky"
+    },
+    {
+      "name": "Louisiana",
+      "code": "la",
+      "capital": "Baton Rouge",
+      "area": "135659",
+      "union": "April 30, 1812",
+      "wiki": "https://en.wikipedia.org/wiki/Louisiana"
+    },
+    {
+      "name": "Massachusetts",
+      "code": "ma",
+      "capital": "Boston",
+      "area": "27336",
+      "union": "February 6, 1788",
+      "wiki": "https://en.wikipedia.org/wiki/Massachusetts"
+    },
+    {
+      "name": "Maryland",
+      "code": "md",
+      "capital": "Annapolis",
+      "area": "32131",
+      "union": "April 28, 1788",
+      "wiki": "https://en.wikipedia.org/wiki/Maryland"
+    },
+    {
+      "name": "Maine",
+      "code": "me",
+      "capital": "Augusta",
+      "area": "91633",
+      "union": "March 15, 1820",
+      "wiki": "https://en.wikipedia.org/wiki/Maine_(U.S._state)"
+    },
+    {
+      "name": "Michigan",
+      "code": "mi",
+      "capital": "Lansing",
+      "area": "250487",
+      "union": "January 26, 1837",
+      "wiki": "https://en.wikipedia.org/wiki/Michigan"
+    },
+    {
+      "name": "Minnesota",
+      "code": "mn",
+      "capital": "Saint Paul",
+      "area": "225163",
+      "union": "May 11, 1858",
+      "wiki": "https://en.wikipedia.org/wiki/Minnesota"
+    },
+    {
+      "name": "Mississippi",
+      "code": "ms",
+      "capital": "Jackson",
+      "area": "125438",
+      "union": "December 10, 1817",
+      "wiki": "https://en.wikipedia.org/wiki/Mississippi"
+    },
+    {
+      "name": "Missouri",
+      "code": "mz",
+      "capital": "Jackson",
+      "area": "125438",
+      "wiki": "https://en.wikipedia.org/wiki/Missouri"
+    },
+    {
+      "name": "Montana",
+      "code": "mt",
+      "capital": "Helena",
+      "area": "380831",
+      "union": "November 8, 1889",
+      "wiki": "https://en.wikipedia.org/wiki/Montana"
+    },
+    {
+      "name": "North Carolina",
+      "code": "nc",
+      "capital": "Raleigh",
+      "area": "139391",
+      "union": "November 21, 1789",
+      "wiki": "https://en.wikipedia.org/wiki/North_Carolina"
+    },
+    {
+      "name": "North Dakota",
+      "code": "nd",
+      "capital": "Bismarck",
+      "area": "183108",
+      "union": "November 2, 1889",
+      "wiki": "https://en.wikipedia.org/wiki/North_Dakota"
+    },
+    {
+      "name": "Nebraska",
+      "code": "ne",
+      "capital": "Lincoln",
+      "area": "200330",
+      "union": "March 1, 1867",
+      "wiki": "https://en.wikipedia.org/wiki/Nebraska"
+    },
+    {
+      "name": "New Hampshire",
+      "code": "nh",
+      "capital": "Concord",
+      "area": "24214",
+      "union": "June 21, 1788",
+      "wiki": "https://en.wikipedia.org/wiki/New_Hampshire"
+    },
+    {
+      "name": "New Jersey",
+      "code": "nj",
+      "capital": "Trenton",
+      "area": "22591",
+      "union": "December 18, 1787",
+      "wiki": "https://en.wikipedia.org/wiki/New_Jersey"
+    },
+    {
+      "name": "New Mexico",
+      "code": "nm",
+      "capital": "Santa Fe",
+      "area": "314917",
+      "union": "January 6, 1912",
+      "wiki": "https://en.wikipedia.org/wiki/New_Mexico"
+    },
+    {
+      "name": "Nevada",
+      "code": "nv",
+      "capital": "Carson City",
+      "area": "286380",
+      "union": "October 31, 1864",
+      "wiki": "https://en.wikipedia.org/wiki/Nevada"
+    },
+    {
+      "name": "New York",
+      "code": "ny",
+      "capital": "Albany",
+      "area": "141297",
+      "union": "July 26, 1788",
+      "wiki": "https://en.wikipedia.org/wiki/New_York_(state)"
+    },
+    {
+      "name": "Ohio",
+      "code": "oh",
+      "capital": "Columbus",
+      "area": "116098",
+      "union": "March 1, 1803",
+      "wiki": "https://en.wikipedia.org/wiki/Ohio"
+    },
+    {
+      "name": "Oklahoma",
+      "code": "ok",
+      "capital": "Oklahoma City",
+      "area": "181037",
+      "union": "November 16, 1907",
+      "wiki": "https://en.wikipedia.org/wiki/Oklahoma"
+    },
+    {
+      "name": "Oregon",
+      "code": "or",
+      "capital": "Salem",
+      "area": "254799",
+      "union": "February 14, 1859",
+      "wiki": "https://en.wikipedia.org/wiki/Oregon"
+    },
+    {
+      "name": "Pennsylvania",
+      "code": "pa",
+      "capital": "Harrisburg",
+      "area": "119280",
+      "union": "December 12, 1787",
+      "wiki": "https://en.wikipedia.org/wiki/Pennsylvania"
+    },
+    {
+      "name": "Rhode Island",
+      "code": "ri",
+      "capital": "Providence",
+      "area": "4001",
+      "union": "May 29, 1790",
+      "wiki": "https://en.wikipedia.org/wiki/Rhode_Island"
+    },
+    {
+      "name": "South Carolina",
+      "code": "sc",
+      "capital": "Columbia",
+      "area": "82933",
+      "union": "May 23, 1788",
+      "wiki": "https://en.wikipedia.org/wiki/South_Carolina"
+    },
+    {
+      "name": "South Dakota",
+      "code": "sd",
+      "capital": "Pierre",
+      "area": "199729",
+      "union": "November 2, 1889",
+      "wiki": "https://en.wikipedia.org/wiki/South_Dakota"
+    },
+    {
+      "name": "Tennessee",
+      "code": "tn",
+      "capital": "Nashville",
+      "area": "109153",
+      "union": "June 1, 1796",
+      "wiki": "https://en.wikipedia.org/wiki/Tennessee"
+    },
+    {
+      "name": "Texas",
+      "code": "tx",
+      "capital": "Austin",
+      "area": "695662",
+      "union": "December 29, 1845",
+      "wiki": "https://en.wikipedia.org/wiki/Texas"
+    },
+    {
+      "name": "Utah",
+      "code": "ut",
+      "capital": "Salt Lake City",
+      "area": "219882",
+      "union": "January 4, 1896",
+      "wiki": "https://en.wikipedia.org/wiki/Utah"
+    },
+    {
+      "name": "Virginia",
+      "code": "va",
+      "capital": "Richmond",
+      "area": "110787",
+      "union": "June 25, 1788",
+      "wiki": "https://en.wikipedia.org/wiki/Virginia"
+    },
+    {
+      "name": "Vermont",
+      "code": "vt",
+      "capital": "Montpelier",
+      "area": "24906",
+      "union": "March 4, 1791",
+      "wiki": "https://en.wikipedia.org/wiki/Vermont"
+    },
+    {
+      "name": "Washington",
+      "code": "wa",
+      "capital": "Olympia",
+      "area": "184661",
+      "union": "November 11, 1889",
+      "wiki": "https://en.wikipedia.org/wiki/Washington_(state)"
+    },
+    {
+      "name": "Wisconsin",
+      "code": "wi",
+      "capital": "Madison",
+      "area": "169635",
+      "union": "May 29, 1848",
+      "wiki": "https://en.wikipedia.org/wiki/Wisconsin"
+    },
+    {
+      "name": "West Virginia",
+      "code": "wv",
+      "capital": "Charleston",
+      "area": "62756",
+      "union": "June 20, 1863",
+      "wiki": "https://en.wikipedia.org/wiki/West_Virginia"
+    },
+    {
+      "name": "Wyoming",
+      "code": "wy",
+      "capital": "Cheyenne",
+      "area": "253335",
+      "union": "July 10, 1890",
+      "wiki": "https://en.wikipedia.org/wiki/Wyoming"
+    }
+  ]
+}
